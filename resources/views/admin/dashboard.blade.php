@@ -33,7 +33,7 @@
             <div class="hero bg-primary text-white">
                 <div class="hero-inner">
                 <h2>Welcome Back, {{Auth::user()->name}}!</h2>
-                <p class="lead">Kelola data webinar ini dengan baik dan benar!</p>
+                <p class="lead">Ayo Kelola Data Peserta Magang Jadi Lebih Baik !</p>
                 </div>
             </div>
         </div>

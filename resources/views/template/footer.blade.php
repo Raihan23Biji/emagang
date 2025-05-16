@@ -6,7 +6,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>E</span>-Magang</h2>
+                  <h2><span>SI</span>MAGANG</h2>
                 </div>
 
                 <p>Silahkan Masuk ke admin jika anda adalah admin dari website ini</p>
@@ -29,11 +29,11 @@
               <div class="footer-head">
                 <h4>information</h4>
                 <p>
-                  Biro Klasifikasi Indonesia (BKI) menjadi badan klasifikasi ke-4 di Asia setelah Jepang, China dan Korea, dan menjadi satu-satunya badan klasifikasi nasional yang bertugas untuk mengklaskan kapal-kapal niaga berbendera Indonesia dan kapa lberbendera asing yang secara reguler beroperasi di perairan Indonesia.
+                  Kantor Pertanahan (Kantah) Kota Jambi merupakan unit kerja vertikal Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) di tingkat Kota Jambi. Kantah ini bertugas menyelenggarakan urusan pemerintahan di bidang agraria/pertanahan, termasuk pendaftaran tanah, pengelolaan data informasi pertanahan, dan penanganan sengketa pertanahan di wilayah Kota Jambi. 
                 </p>
                 <div class="footer-contacts">
-                  <p><span>Alamat</span> Jl. KH. </p>
-                  <p><span>Jam Kerja:</span> 07.00 - 15.00</p>
+                  <p><span>Alamat</span> Jl. Kol. Pol. M. Thaher No.17 Pakuan Baru, Jambi Selatan, Kota Jambi </p>
+                  <p><span>Jam Kerja:</span> 08.00 - 16.00</p>
                 </div>
               </div>
             </div>
@@ -49,7 +49,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>E-Magang</strong>. All Rights Reserved | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+                &copy; Copyright <strong>SIMAGANG</strong>. All Rights Reserved | Repost by <a href='https://unja.com/' title='unja.com' target='_blank'>unja.com</a>
 
               </p>
             </div>

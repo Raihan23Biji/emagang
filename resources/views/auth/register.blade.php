@@ -137,7 +137,7 @@
                 <div class="mt-5 text-muted text-center">
                     Sudah Punya Akun? <a href="{{url('login')}}">Login</a>
                   </div>
-                  <center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+                  <center><p>Repost by <a href='https://unja.com/' title='unja.com' target='_blank'>unja.com</a></p></center>
 
               </div>
             </div>

@@ -38,7 +38,7 @@
                     <div class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-6 offset-lg-3 col-xl-4 offset-xl-4">
                         <div class="login-brand">
                             <img src="{{ asset('') }}assets_admin/img/logolama.png" alt="logo" width="150" class="shadow-light rounded" style="padding: 10px;">
-                            <h4 class="mt-3">PT. Biro Klasifikasi Indonesia </h4>
+                            <h4 class="mt-3">Kantor Pertanahan Kota Jambi </h4>
                         </div>
 
                         <div class="card card-primary">
@@ -90,7 +90,7 @@
                                         <div class="text-center mt-3">
                                             <a href="{{ url('')}}">Halaman Utama</a>
                                         </div>
-                                        <center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+                                      
 
                                     </div>
                                 </form>
@@ -100,7 +100,7 @@
                             Belum mempunyai akun? <a href="{{ url('registrasi') }}">Registrasi</a>
                         </div>
                         <div class="simple-footer">
-                            Copyright &copy; Aplikasi E-Magang
+                            Copyright &copy; Aplikasi SIMAGANG
                         </div>
                     </div>
                 </div>

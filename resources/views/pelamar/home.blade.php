@@ -19,11 +19,11 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow animate__slideInDown animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">PT. Biro Klasifikasi Indonesia </h2>
+                  <h2 class="title1">Kantor Pertanahan Kota Jambi </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow animate__fadeIn animate__animated" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h1 class="title2">Selamat Datang di PT. Biro Klasifikasi Indonesia</h1>
+                  <h1 class="title2">Selamat Datang di Kantor Pertanahan Kota Jambi</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow animate__slideInUp animate__animated" data-wow-duration="2s" data-wow-delay=".2s">

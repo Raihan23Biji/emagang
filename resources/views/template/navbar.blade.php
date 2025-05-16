@@ -2,7 +2,7 @@
 <div class="container d-flex">
 
     <div class="logo mr-auto">
-    <h1 class="text-light"><a href="{{ url('')}}"><span>E</span>-Magang</a></h1>
+    <h1 class="text-light"><a href="{{ url('')}}"><span>SI</span>MAGANG</a></h1>
     <!-- Uncomment below if you prefer to use an image logo -->
     <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
     </div>
@@ -18,7 +18,7 @@
         <li><a href="{{ url('data-lamaran')}}">Lamaran</a></li>
         @auth
         @if(Auth::user()->role === 'pelamar')
-            <li><a href="/absensi/camera">Absensi</a></li>
+            <li><a href="/absen">Absensi</a></li>
         @endif
     @endauth
     
