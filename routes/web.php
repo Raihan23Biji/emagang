@@ -126,7 +126,9 @@ Route::middleware('auth')->group(function () {
 
     Route::post('/magang/nilai/{id}', [App\Http\Controllers\NilaiController::class, 'store'])->name('magang.nilai.simpan');
     Route::get('/nilai/download', [App\Http\Controllers\NilaiController::class, 'download'])->name('nilai.download');
-
+    Route::get('/logbook/create', [App\Http\Controllers\LogbookController::class, 'create'])->name('logbook.create');
+    Route::post('/logbook', [App\Http\Controllers\LogbookController::class, 'store'])->name('logbook.store');
+   Route::get('/logbooks', [App\Http\Controllers\LogbookController::class, 'index'])->name('logbooks.index');
 
 
 });

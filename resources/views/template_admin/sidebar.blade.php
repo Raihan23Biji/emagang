@@ -58,6 +58,7 @@
             <li class = ""><a class="nav-link" href="<?= url('data-tidak-diterima')?>"><i class="fas fa-calendar-check"></i> <span>Data Tidak Diterima  <sup><span class="subatas">{{$data['tidak_diterima']}}</span></sup></span></a></li>
             <li class = ""><a class="nav-link" href="<?= url('data-nilai-peserta')?>"><i class="fas fa-calendar-check"></i> <span>Data Nilai Peserta  </span></a></li>
             <li class = ""><a class="nav-link" href="<?= url('data-absen')?>"><i class="fas fa-calendar-check"></i> <span>Data Presensi Peserta  </span></a></li>
+                        <li class = ""><a class="nav-link" href="<?= url('logbooks')?>"><i class="fas fa-calendar-check"></i> <span>logbook Peserta  </span></a></li>
           </ul>
 
         

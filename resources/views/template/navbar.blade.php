@@ -33,6 +33,7 @@
                 <li><a href="<?= url('/nilai/download')?>">Nilai Magang</a></li>
             @endif
               
+                  <li><a href="<?= url('logbooks')?>">logbooks</a></li>
                 <li><a href="<?= url('logout')?>">Logout</a></li>
               </ul>
             </li>
